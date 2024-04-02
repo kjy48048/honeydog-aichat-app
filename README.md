@@ -13,6 +13,10 @@ AI와 채팅은 OpenAI의 Assistants Api의 내용을 사용하였습니다.
 
 원본 앱 프로젝트를 복사한 프로젝트로, 올라와서는 안되는 개인정보 등의 내용을 삭제했기 때문에 실제로 사용하기 위해서는 수정이 필요합니다.
 
+![Screenshot_1711780856](https://github.com/kjy48048/honeydog-aichat-server/assets/55000077/4b4f001d-d74e-4d3a-9fe8-fe1aecd5da85)
+![Screenshot_1711779242](https://github.com/kjy48048/honeydog-aichat-server/assets/55000077/993814fe-a526-4c8e-8acf-172d4b85ffa5)
+![Screenshot_1711779254](https://github.com/kjy48048/honeydog-aichat-server/assets/55000077/4079eb13-8743-4e04-b251-b6ffcb19eda6)
+
 ## 시작하기 & 사전 조건
 
 - Visual Studio Code
